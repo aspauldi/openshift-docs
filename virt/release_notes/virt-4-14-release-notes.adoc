@@ -79,7 +79,7 @@ For more information, see xref:../../virt/install/preparing-cluster-for-virt.ado
 //CNV-28096 Release note: NEW feature -- clone from cached snapshot
 * You can now enable volume snapshots as boot sources.
 
-//CNV-28724 Release note: storage profile defaults
+//CNV-28724 Release note: Storage profile defaults
 * The access mode and volume mode fields in storage profiles are populated automatically with their optimal values for the following additional Containerized Storage Interface (CSI) provisioners:
 
 ** Dell PowerFlex

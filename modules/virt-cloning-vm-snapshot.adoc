@@ -1,0 +1,20 @@
+// Module included in the following assemblies:
+//
+// * virt/backup_restore/virt-backup-restore-snapshots.adoc
+
+:_mod-docs-content-type: PROCEDURE
+[id="virt-cloning-vm-snapshot_{context}"]
+= Cloning a snapshot
+
+You can clone an existing virtual machine (VM) snapshot.
+
+.Procedure
+
+. Navigate to *Virtualization* -> *VirtualMachines* in the web console.
+. Select a VM to open the *VirtualMachine details* page.
+. Click the *Snapshots* tab.
+. Click the options menu {kebab} for the snapshot you want to clone and select *Clone*.
+. On the *Clone VirtualMachineSnapshot* page, enter the snapshot name.
+. (Optional) Select the checkbox to start the cloned virtualmachine.
+. Click *Clone*.
+

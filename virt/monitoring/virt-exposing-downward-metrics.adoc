@@ -10,6 +10,11 @@ As an administrator, you can expose a limited set of host and virtual machine (V
 
 Users can view the metrics results by using the command line or the `vm-dump-metrics tool`.
 
+[NOTE]
+====
+Downward metrics are not supported on {op-system-base-full} 9.
+====
+
 [id="virt-enabling-disabling-feature-gate"]
 == Enabling or disabling the downwardMetrics feature gate
 

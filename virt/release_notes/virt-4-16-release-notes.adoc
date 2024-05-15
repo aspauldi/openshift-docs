@@ -71,6 +71,14 @@ This release adds new features and enhancements related to the following compone
 [id="virt-4-16-networking"]
 === Networking
 
+[id="virt-4-16-monitoring"]
+=== Monitoring
+
+//CNV-41655
+As an administrator, you can now expose a limited set of host and virtual machine (VM) metrics to a guest VM through a virtio-serial port by enabling a `downwardMetrics` feature gate and configuring a `downwardMetrics` device. Users can retrieve the metrics by using the `vm-dump-metrics` tool or running a command from the command line.
++
+The `vm-dump-metrics` tool is not supported on Red Hat Enterprise Linux 9. You can, however, collect and later retrieve metrics by posting a GET request directly to the downward metrics `virtio-serial` port.
+
 [id="virt-4-16-storage"]
 === Storage
 

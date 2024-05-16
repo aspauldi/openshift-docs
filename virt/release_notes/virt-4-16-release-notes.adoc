@@ -77,7 +77,7 @@ This release adds new features and enhancements related to the following compone
 //CNV-41655
 As an administrator, you can now xref:../../virt/monitoring/virt-exposing-downward-metrics.adoc#virt-exposing-downward-metrics[expose a limited set of host and virtual machine (VM) metrics to a guest VM through a virtio-serial port] for {VirtProductName} by enabling a `downwardMetrics` feature gate and configuring a `downwardMetrics` device. Users retrieve the metrics by using the `vm-dump-metrics` tool or running a command from the command line.
 
-The `vm-dump-metrics` tool is not supported on {op-system-base-full} 9. You can instead xref:../../virt/monitoring/virt-viewing-downward-metrics-cli.adoc#virt-viewing-downward-metrics-cli[use the command line] to view downward metrics.
+On {op-system-base-full} 9, xref:../../virt/monitoring/virt-viewing-downward-metrics-cli.adoc#virt-viewing-downward-metrics-cli[use the command line] to view downward metrics. The `vm-dump-metrics` tool is not supported on the {op-system-base-full} 9 platform.
 
 [id="virt-4-16-storage"]
 === Storage

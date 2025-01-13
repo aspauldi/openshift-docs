@@ -4584,6 +4584,8 @@ Topics:
     Topics:
     - Name: Creating virtual machines from the command line
       File: virt-creating-vms-from-cli
+    - Name: Specifying an instance type or preference
+      File: virt-specifying-instance-preference
     - Name: Creating VMs by using container disks
       File: virt-creating-vms-from-container-disks
     - Name: Creating VMs by cloning PVCs

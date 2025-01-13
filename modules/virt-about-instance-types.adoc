@@ -1,6 +1,6 @@
 // Module included in the following assemblies:
 //
-// * virt/virtual_machines/creating_vm/virt-creating-vms-from-instance-types.adoc
+// * virt/creating_vm/virt-creating-vms-from-instance-types.adoc
 
 :_mod-docs-content-type: CONCEPT
 [id="virt-about-instance-types_{context}"]

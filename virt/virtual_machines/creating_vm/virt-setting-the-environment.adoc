@@ -12,7 +12,7 @@ When you create a VM, you can do so by using available, pre-defined resources pr
 
 To verify that you have set up your environment as required, confirm that you have the following configurations in place:
 
-A CSI provider to provision disks
-A network for the VM and connection to the SDN
-If connecting to a VLAN, the network attachment definitions
-A base OS image, if you do not plan to use one provided by Red Hat
+* A CSI provider to provision disks
+* A network for the VM and connection to the SDN
+* If connecting to a VLAN, the network attachment definitions
+* A base OS image, if you do not plan to use one provided by Red Hat

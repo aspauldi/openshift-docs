@@ -1526,6 +1526,8 @@ Topics:
 #       File: virt-creating-vms-from-instance-types
 #     - Name: Creating VMs from templates
 #       File: virt-creating-vms-from-templates
+      - Name: Setting up your environment
+#     - File: virt-set-up-environment.adoc
 # Topics:
 #   - Name: Creating VMs from Red Hat images
 #     Dir: creating_vms_rh

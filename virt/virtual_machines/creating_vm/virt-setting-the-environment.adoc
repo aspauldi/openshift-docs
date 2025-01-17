@@ -6,6 +6,8 @@ include::_attributes/common-attributes.adoc[]
 
 toc::[]
 
+Here is sample text to save and add file
+
 You can create a virtual machine (VM) by using a supported method of your choice. Before you do so, it is important to verify that you have the appropriate environment in place.
 
 When you create a VM, you can do so by using available, pre-defined resources provided by Red Hat. You also have the option of setting up your environment by configuring certain resources of your own, as would be the case, for example, if you want to create, upload, and boot to a base OS image not included by default.

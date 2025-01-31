@@ -1,8 +1,8 @@
 :_mod-docs-content-type: ASSEMBLY
-[id="virt-customizing-vm-creation-by-using-the-web-console"]
+[id="virt-customizing-VM-creation-by-using-the-web-console"]
 = Customizing VM creation by using the web console
 include::_attributes/common-attributes.adoc[]
-:context: virt-customizing-vm-creation-by-using-the-web-console
+:context: virt-customizing-VM-creation-by-using-the-web-console
 
 toc::[]
 

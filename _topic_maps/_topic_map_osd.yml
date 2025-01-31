@@ -1548,6 +1548,8 @@ Topics:
 #      File: virt-creating-vms-uploading-images
 #    - Name: Cloning VMs
 #      File: virt-cloning-vms
+#    - Name: Customizing VM creation by using the web console
+#      File: virt-customizing-VM-creation-by-using-the-web-console
 #  - Name: Creating VMs using the CLI
 #    Dir: creating_vms_cli
 #    Topics:

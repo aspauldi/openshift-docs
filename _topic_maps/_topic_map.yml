@@ -4567,7 +4567,7 @@ Topics:
   Dir: creating_vms_advanced
   Topics:
 # - Name: Overview
-#    File: virt-advanced-vm-overview
+#   File: virt-advanced-vm-overview
   - Name: Creating VMs in the web console
     Dir: creating_vms_advanced_web
     Topics:
@@ -4579,6 +4579,8 @@ Topics:
       File: virt-creating-vms-uploading-images
     - Name: Cloning VMs
       File: virt-cloning-vms
+    - Name: Customizing VM creation by using the web console
+      File: virt-customizing-VM-creation-by-using-the-web-console
   - Name: Creating VMs using the CLI
     Dir: creating_vms_cli
     Topics:

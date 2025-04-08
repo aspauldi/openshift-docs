@@ -21,13 +21,13 @@ If the VM is delete protected, the *Delete* action is unavailable in the VM's *A
 
     * For a general view, navigate to *Virtualization* → *VirtualMachines*.
 
-. Click the *Actions* menu {kebab} beside a virtual machine and select *Delete*.
+. Click the *Actions* menu {kebab} beside a VM and select *Delete*.
 +
-Alternatively, click the virtual machine name to open the *VirtualMachine details* page and click *Actions* -> *Delete*.
+Alternatively, click the VM's name to open the *VirtualMachine details* page and click *Actions* -> *Delete*.
 
 . Optional: Select *With grace period* or clear *Delete disks*.
 
-. Click *Delete* to permanently delete the virtual machine.
+. Click *Delete* to permanently delete the VM.
 
 .Additional resources
 * link:https://openshift-enterprise/latest/virt/managing_vms/virt-enabling-disabling-vm-delete-protection.adoc#virt-enabling-disabling-vm-delete-protection-web_virt-enabling-disabling-vm-delete-protection[Enabling or disabling virtual machine delete protection by using the web console]

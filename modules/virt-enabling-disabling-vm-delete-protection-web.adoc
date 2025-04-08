@@ -7,7 +7,7 @@
 
 = Enabling or disabling virtual machine delete protection by using the web console
 
-To prevent the inadvertent deletion of a virtual machine, you can enable virtual machine delete protection by using the {product-title} web console. Should you change your mind, you can easily disable delete protection for a VM.
+To prevent the inadvertent deletion of a virtual machine (VM), you can enable virtual machine delete protection by using the {product-title} web console. Should you change your mind, you can easily disable delete protection for a VM.
 
 By default, VMs are not enabled with delete protection. You must set the option for each individual VM.
 

@@ -7,17 +7,17 @@
 
 = Deleting a virtual machine by using the CLI
 
-You can delete a virtual machine (VM) by using the `oc` command line interface (CLI). The `oc` client enables you to perform actions on multiple virtual machines.
+You can delete a virtual machine (VM) by using the `oc` command line interface (CLI). The `oc` client enables you to perform actions on multiple VMs.
 
-If the VM is delete protected, a message appears informing you that you must first disable the VM's delete protection before you can delete it.
+If the VM is delete protected, a message appears informing you that you must first disable the VM's delete protection before you can delete the VM.
 
 .Prerequisites
 
-* Identify the name of the virtual machine that you want to delete.
+* Identify the name of the VM that you want to delete.
 
 .Procedure
 
-* Delete the virtual machine by running the following command:
+* Delete the VM by running the following command:
 +
 [source,terminal]
 ----

@@ -18,7 +18,6 @@ After you verify that the migration was successful, you must manually delete the
 .Prerequisites
 
 * The VMs you select for each bulk migration must be in the same namespace.
-* The {mtc-first} must be installed.
 
 .Procedure
 
